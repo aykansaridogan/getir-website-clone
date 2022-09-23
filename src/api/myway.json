@@ -1,0 +1,19 @@
+[
+    
+    {
+        "id": 1,
+        "title": "Eğitim",
+        "image": "https://cdn.pixabay.com/photo/2020/07/12/07/57/education-5396389_960_720.png"
+    },
+    {
+        "id": 2,
+        "title": "Danışmanlık",
+        "image": "https://w7.pngwing.com/pngs/910/669/png-transparent-management-consulting-business-consultant-consulting-firm-business-people-innovation-logo.png"
+    },
+    {
+        "id": 3,
+        "title": "Çözümlerimiz",
+        "image": "https://e7.pngegg.com/pngimages/663/407/png-clipart-computer-icons-magnifying-glass-symbol-magnifying-glass-logo-desktop-wallpaper.png"
+    }
+
+]
